@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-08T18:34:41 IST" name="Master Suite" finished-at="2024-09-08T18:34:52 IST" duration-ms="10757">
+    <groups>
+      <group name="TestAction01">
+        <method signature="TestAction01.tc_01_textBoxAction()[pri:0, instance:testSuite.TestAction01@2f94c4db]" name="tc_01_textBoxAction" class="testSuite.TestAction01"/>
+      </group> <!-- TestAction01 -->
+    </groups>
+    <test started-at="2024-09-08T18:34:41 IST" name="Test" finished-at="2024-09-08T18:34:52 IST" duration-ms="10757">
+      <class name="testSuite.TestAction01">
+        <test-method is-config="true" signature="beforeClass(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testSuite.TestAction01@2f94c4db]" started-at="2024-09-08T18:34:41 IST" name="beforeClass" finished-at="2024-09-08T18:34:49 IST" duration-ms="7877" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[url]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="tc_01_textBoxAction()[pri:0, instance:testSuite.TestAction01@2f94c4db]" started-at="2024-09-08T18:34:49 IST" name="tc_01_textBoxAction" finished-at="2024-09-08T18:34:52 IST" duration-ms="2369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_textBoxAction -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testSuite.TestAction01@2f94c4db]" started-at="2024-09-08T18:34:52 IST" name="afterClass" finished-at="2024-09-08T18:34:52 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testSuite.TestAction01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Master Suite -->
+</testng-results>

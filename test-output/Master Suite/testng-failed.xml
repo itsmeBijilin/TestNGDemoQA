@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Master Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="OS" value="windows"/>
+    <parameter name="reqUrl" value="url"/>
+    <parameter name="Browser" value="Chrome"/>
+    <groups>
+      <run>
+        <include name="TestAction01"/>
+        <exclude name="TestAction2"/>
+        <exclude name="DataDriven"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testSuite.TestAction01">
+        <methods>
+          <include name="tc_01_textBoxAction"/>
+        </methods>
+      </class> <!-- testSuite.TestAction01 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Master Suite] -->

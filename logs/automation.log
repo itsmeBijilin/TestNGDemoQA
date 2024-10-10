@@ -1,0 +1,41 @@
+18:53:19.743 [main] ERROR testSuite.TestAction03Login - login button is not clicked
+18:53:19.763 [main] ERROR testSuite.TestAction03Login - Logout Button is not clicked
+18:54:02.864 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Bijilin\demoQA\demoQA\Master.xml
+
+18:54:31.617 [main] INFO  testSuite.TestAction03Login - ******tc_03_BookStoreLogin**********
+18:54:31.683 [main] INFO  testSuite.TestAction03Login - abcis not passed into the field
+18:54:31.683 [main] INFO  testSuite.TestAction03Login - Abcd@123is not passed into the field
+18:54:31.697 [main] ERROR testSuite.TestAction03Login - login button is not clicked
+18:54:31.697 [main] ERROR testSuite.TestAction03Login - Logout Button is not clicked
+18:54:31.744 [main] INFO  testSuite.TestAction03Login - ******tc_03_BookStoreLogin**********
+18:54:31.763 [main] INFO  testSuite.TestAction03Login - abcis not passed into the field
+18:54:31.776 [main] INFO  testSuite.TestAction03Login - Abcd@123is not passed into the field
+18:54:31.784 [main] ERROR testSuite.TestAction03Login - login button is not clicked
+18:54:31.784 [main] ERROR testSuite.TestAction03Login - Logout Button is not clicked
+18:54:31.794 [main] INFO  testSuite.TestAction03Login - ******tc_03_BookStoreLogin**********
+18:54:31.794 [main] INFO  testSuite.TestAction03Login - cabis not passed into the field
+18:54:31.808 [main] INFO  testSuite.TestAction03Login - cabC@123is not passed into the field
+18:54:31.808 [main] ERROR testSuite.TestAction03Login - login button is not clicked
+18:54:31.824 [main] ERROR testSuite.TestAction03Login - Logout Button is not clicked
+18:55:29.881 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Bijilin\demoQA\demoQA\Master.xml
+
+18:55:42.690 [main] INFO  testSuite.TestAction03Login - ******tc_03_BookStoreLogin**********
+18:56:03.434 [main] INFO  testSuite.TestAction03Login - abcis not passed into the field
+18:56:24.122 [main] INFO  testSuite.TestAction03Login - Abcd@123is not passed into the field
+18:34:41.790 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Bijilin\demoQA\demoQA\Master.xml
+
+18:34:49.887 [main] INFO  testSuite.TestAction01 - ****Starting tc_01_textBoxAction******
+18:34:50.006 [main] INFO  testSuite.TestAction01 - elementText is clicked
+18:34:50.062 [main] INFO  testSuite.TestAction01 - textBoxText is clicked
+18:34:50.168 [main] INFO  testSuite.TestAction01 - Test Nameis passed into the field
+18:34:50.251 [main] INFO  testSuite.TestAction01 - Submit Button is clicked
+18:34:50.251 [main] INFO  testSuite.TestAction01 - **Finishing tc_01_textBoxAction
+15:06:02.126 [main] INFO  testSuite.TestAction01 - ****Starting tc_01_textBoxAction******
+15:06:02.335 [main] INFO  testSuite.TestAction01 - elementText is clicked
+15:06:02.409 [main] INFO  testSuite.TestAction01 - textBoxText is clicked
+15:06:02.550 [main] INFO  testSuite.TestAction01 - Test Nameis passed into the field
+15:06:02.670 [main] INFO  testSuite.TestAction01 - Submit Button is clicked
+15:06:02.670 [main] INFO  testSuite.TestAction01 - **Finishing tc_01_textBoxAction
